@@ -389,6 +389,10 @@ input[type=submit] {
     padding-top: 10px;
 }
 
+.main-section {
+  width: 90%;
+  margin-left:40px;
+}
 
 .main-section p {
     display: block;
